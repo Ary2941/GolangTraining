@@ -2,5 +2,6 @@ package main
 import ("fmt")
 
 func main(){
-	fmt.Println("Hello World!")
+	var world string = "World!";
+	fmt.Println("Hello "+ world);
 }
