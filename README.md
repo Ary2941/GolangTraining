@@ -7,3 +7,4 @@ Here will be some go programs so that i get used to this language :)
 Nothing is worth the risk
 Nothing is worth the risk
 Nothing is worth the risk
+Were gobna makit
